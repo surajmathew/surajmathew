@@ -40,11 +40,11 @@ I'm a Product Manager at heart and an amateur coder by passion. I love learning 
 
 ## Qualifications
 
-Everyone should try and do some courses on Accessibility, on Diversity, on Mentoring and Coaching and on Change if you can - I recommend each of these programs
+Holds a mix of Manangement and Technical Qualifications
 
-|[**MBA**](https://www.iimtrichy.ac.in/)|[**Mentoring**](https://www.youracclaim.com/earner/earned/badge/c3685d01-14eb-4a0e-b0cb-fbebb660c879)|[**Change**](https://www.youracclaim.com/earner/earned/badge/850560df-682b-4d92-8338-1d4b144bc271)|[**Challenger**](https://www.youracclaim.com/earner/earned/badge/45adcea2-a316-4e50-abd8-de50c2f3e21d)|[**Speaker**](https://www.credly.com/badges/02d7c781-dd0e-47b6-a7bd-672b29160ffa)|[**Sustainability**](https://github.com/codess-aus/codess-aus/blob/master/assets/SustainabilityBadge%20-%20dark%20mode%20-%20white%20font.jpg)|
-|:---:|:---:|:---:|:---:|:---:|:---:|
-|![Accessibility](https://github.com/msandfor/msandfor/blob/main/assets/Acc_Badge_v4.png)|![Mentoring](https://github.com/msandfor/msandfor/blob/main/assets/Mentor-Gold.png)|![Proscii](https://github.com/msandfor/msandfor/blob/main/assets/Change_Practitioner.png)|![Challenger](https://github.com/msandfor/msandfor/blob/main/assets/Microsoft-Insight-Selling__284_29.png)|![**Speaker**](https://github.com/codess-aus/codess-aus/blob/main/assets/Event-Speaker-Silver.png)|![**Sustainability**](https://github.com/codess-aus/codess-aus/blob/main/assets/SustainabilityBadge%20-%20dark%20mode%20-%20white%20font.jpg)
+|[**MBA**](https://www.iimtrichy.ac.in/)|[**MS Data Science**](https://www.deakin.edu.au/course/master-data-science-global-international)|[**M.Tech Software Engineering**](https://vit.ac.in/)|[**B.E.Electronics & Communication**](https://www.annauniv.edu/)|
+|:---:|:---:|:---:|:---:|
+|![MBA](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/IIMT.png)|![MS Data Science](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/DeakinUniv.png)|![M.Tech Software Engineering](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/VIT.png)|![B.E.Electronics & Communication](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/AnnaUniv.png)|
 
 ## Certifications
 
