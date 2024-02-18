@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <!-- Social Links -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/surajmathewthomas/" target ="_blank"><img src="https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/LinkedIn.png"/></a>
+  <a href="https://www.linkedin.com/in/surajmathewthomas/" target ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/codess_aus"><img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&logo=twitter&logoColor=white"/></a>
   <a href="https://instagram.com/codess_aus/"><img src="https://img.shields.io/badge/-Instagram-d3003f?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/michellesandford"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
