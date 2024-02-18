@@ -31,7 +31,7 @@ Outside of work, I’m a dog lover, oarsman and swimmer.
 
 Holds a mix of Manangement and Technical Qualifications
 
-|[**MBA**](https://www.iimtrichy.ac.in/)|[**MS Data Science**](https://www.deakin.edu.au/course/master-data-science-global-international)|[**M.Tech Software Engineering**](https://vit.ac.in/)|[**B.E.Electronics & Communication**](https://www.annauniv.edu/)|
+|[**MBA**](https://www.iimtrichy.ac.in/)|[**MS Data Science**](https://www.deakin.edu.au/)|[**M.Tech Software Engineering**](https://vit.ac.in/)|[**B.E.Electronics & Communication**](https://www.annauniv.edu/)|
 |:---:|:---:|:---:|:---:|
 |![MBA](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/IIMT.png)|![MS Data Science](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/DeakinUniv.png)|![M.Tech Software Engineering](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/VIT.png)|![B.E.Electronics & Communication](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/AnnaUniv.png)|
 
