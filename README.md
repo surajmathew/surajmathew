@@ -32,7 +32,9 @@ Here are some ideas to get you started:
 
 <!-- Profile Headlines -->
 
-I'm a Product Manager at heart and an amateur coder by passion. I love learning new stuff and helping people by teaching what I learn and fuelling their passion. I worked with databases and data all through my professional career thus far.
+I'm a Product Manager at heart and an amateur coder by passion. I love learning new stuff and helping people by teaching what I learn and fuelling their passion. I have a proven track record in developing innovative product and analytical solutions across IT, BFSI, and various other industries. My expertise lies in steering product life cycles from concept to launch, excelling in strategic planning, and transforming complex market data and customer insights into actionable product features. My interests and research areas are around strategy, product management, data science, data quality, data governance, data literacy, and data democratization.
+
+Outside of work, I’m a dog lover, oarsman and swimmer. 
 
 [My Data Science Portfolio - UT Austin McCombs School of Business](https://eportfolio.mygreatlearning.com/suraj-mathew-thomas)
 
@@ -46,11 +48,11 @@ Holds a mix of Manangement and Technical Qualifications
 
 ## Certifications
 
-These are some of my Microsoft Certifications.  Check out my training notes in my GitHub Certification Repositories. I'm not sure what I'm doing next, just need to find some time to focus and study! https://github.com/codess-aus
+These are some of my Certifications
 
-|[**Tableau Specialist**](https://www.credly.com/earner/earned/badge/c60441b6-cd8f-46f4-83ff-75100ef95ca0)|[**DP900**](https://www.youracclaim.com/earner/earned/badge/150bebcc-ad12-4fc6-9136-9f241dd86598)|[**AI100**](https://www.youracclaim.com/earner/earned/badge/4bc029c0-4e81-4ce9-b835-a7607a887b15)|[**AI900**](https://www.youracclaim.com/earner/earned/badge/2de77be7-4abf-454c-bc84-07f257c28e6c)|[**AZ220**](https://www.credly.com/badges/7600f5c8-ee9e-4885-97ff-8c6cb0c42610)|[**AZ900**](https://www.youracclaim.com/earner/earned/badge/bbaa1454-9842-4b1e-a98c-104625575d09)|
+|[**Tableau Specialist**](https://www.credly.com/badges/c60441b6-cd8f-46f4-83ff-75100ef95ca0/public_url)|[**Alteryx Core**](https://www.credly.com/badges/f6896296-1b49-4899-8002-ce5fcc4ee9ff/public_url)|[**Alteryx Advanced**](https://www.credly.com/badges/2df3413b-1367-42e5-a580-7588104d851b/public_url)|[**Data Science & Business Analytics**](https://la.utexas.edu/texasexeced/digitalVerification.html?key=CLRnW)|[**AZ220**](https://www.credly.com/badges/7600f5c8-ee9e-4885-97ff-8c6cb0c42610)|[**AZ900**](https://www.youracclaim.com/earner/earned/badge/bbaa1454-9842-4b1e-a98c-104625575d09)|
 |:---:|:---:|:---:|:---:|:---:|:---:| 
-|![Tableau Specialist](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/tableau-desktop-specialist%20(1).png)|![DP900](https://github.com/msandfor/msandfor/blob/main/assets/azure-data-fundamentals-600x600.png)|![AI100](https://github.com/msandfor/msandfor/blob/main/assets/azure-ai-engineer-600x600.png)|![AI900](https://github.com/msandfor/msandfor/blob/main/assets/azure-ai-fundamentals-600x600.png)|![AZ220](https://github.com/codess-aus/codess-aus/blob/main/assets/specialty-azure-iot-developer-600x600.png)|![AZ900](https://github.com/msandfor/msandfor/blob/main/assets/azure-fundamentals-600x600.png)|
+|![Tableau Specialist](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/tableau-desktop-specialist%20(1).png)|![Alteryx Core](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/AlteryxCore.png)|![Alteryx Advanced](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/AlteryxAdvanced.png)|![Data Science & Business Analytics](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/UTAustin.png)|![AZ220](https://github.com/codess-aus/codess-aus/blob/main/assets/specialty-azure-iot-developer-600x600.png)|![AZ900](https://github.com/msandfor/msandfor/blob/main/assets/azure-fundamentals-600x600.png)|
 
 
 ## Storytelling and more
