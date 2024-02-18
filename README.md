@@ -53,8 +53,7 @@ The organizations I have been part of
 
 <!--dashboards-->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajmathew&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajmathew&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=surajmathew&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for surajmathew" /></p>
 
 
