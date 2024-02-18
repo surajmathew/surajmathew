@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <!-- Banner -->
 
-<img src="https://github.com/codess-aus/codess-aus/blob/main/assets/Coder.gif" alt="banner that says Michelle Sandford - Microsoft Developer Engagment Lead Asia alongside an anime image of Michelle with her two ShihTzus">
+<img src="https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/GitBanner.gif" alt="A banner that highlights the name and the person's expertise">
 
 <!-- Social Links -->
 
