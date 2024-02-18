@@ -5,8 +5,9 @@
 -->
 
 <!-- Banner -->
+<img src="https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/GitBanner.gif" alt="A pic dipicting an anime of me">
 
-<img src="https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/GitBanner.gif" alt="A banner that highlights the name and the person's expertise">
+<img src="https://github.com/surajmathew/surajmathew/blob/main/assets/fotor-ai-20240218214737.jpg" alt="A banner that highlights the name and the person's expertise">
 
 <!-- Social Links -->
 
