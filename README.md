@@ -50,9 +50,9 @@ Holds a mix of Manangement and Technical Qualifications
 
 These are some of my Certifications
 
-|[**Tableau Specialist**](https://www.credly.com/badges/c60441b6-cd8f-46f4-83ff-75100ef95ca0/public_url)|[**Alteryx Core**](https://www.credly.com/badges/f6896296-1b49-4899-8002-ce5fcc4ee9ff/public_url)|[**Alteryx Advanced**](https://www.credly.com/badges/2df3413b-1367-42e5-a580-7588104d851b/public_url)|[**Data Science & Business Analytics**](https://la.utexas.edu/texasexeced/digitalVerification.html?key=CLRnW)|[**AZ220**](https://www.credly.com/badges/7600f5c8-ee9e-4885-97ff-8c6cb0c42610)|[**AZ900**](https://www.youracclaim.com/earner/earned/badge/bbaa1454-9842-4b1e-a98c-104625575d09)|
-|:---:|:---:|:---:|:---:|:---:|:---:| 
-|![Tableau Specialist](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/tableau-desktop-specialist%20(1).png)|![Alteryx Core](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/AlteryxCore.png)|![Alteryx Advanced](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/AlteryxAdvanced.png)|![Data Science & Business Analytics](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/UTAustin.png)|![AZ220](https://github.com/codess-aus/codess-aus/blob/main/assets/specialty-azure-iot-developer-600x600.png)|![AZ900](https://github.com/msandfor/msandfor/blob/main/assets/azure-fundamentals-600x600.png)|
+|[**Tableau Specialist**](https://www.credly.com/badges/c60441b6-cd8f-46f4-83ff-75100ef95ca0/public_url)|[**Alteryx Core**](https://www.credly.com/badges/f6896296-1b49-4899-8002-ce5fcc4ee9ff/public_url)|[**Alteryx Advanced**](https://www.credly.com/badges/2df3413b-1367-42e5-a580-7588104d851b/public_url)|[**Data Science & Business Analytics**](https://la.utexas.edu/texasexeced/digitalVerification.html?key=CLRnW)|
+|:---:|:---:|:---:|:---:|
+|![Tableau Specialist](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/tableau-desktop-specialist%20(1).png)|![Alteryx Core](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/AlteryxCore.png)|![Alteryx Advanced](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/AlteryxAdvanced.png)|![Data Science & Business Analytics](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/UTAustin.png)|
 
 
 ## Storytelling and more
