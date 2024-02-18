@@ -5,7 +5,7 @@
 -->
 
 <!-- Banner -->
-<img src="https://github.com/surajmathew/surajmathew/blob/main/assets/Suraj%20Mathew%20Thomas%20(1).gif" alt="A pic dipicting an anime of me">
+<img src="https://github.com/surajmathew/surajmathew/blob/main/assets/Banner-SurajMT.gif" alt="A pic dipicting an anime of me">
 
 <!-- Social Links -->
 
