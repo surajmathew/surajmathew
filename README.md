@@ -24,19 +24,19 @@ Here are some ideas to get you started:
 <!-- Social Links -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/surajmathewthomas/" target ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/codess_aus"><img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/codess_aus/"><img src="https://img.shields.io/badge/-Instagram-d3003f?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/michellesandford"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://dev.to/codess_aus"><img src="https://img.shields.io/badge/-Dev.to-B30059?style=flat-square&logo=dev.to&logoColor=white"/></a>
-<a href="http://www.youtube.com/c/MichelleSandford"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
+    <a href="https://github.com/surajmathew" target ="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee"/></a>
+<a href="https://twitter.com/suraj_mathew"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://medium.com/@surajmathewthomas"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/surajmathewthomas/" target ="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://public.tableau.com/app/profile/suraj.mathew.thomas/vizzes"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCkVYnoO0ntiRag0_WISVztQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
-<!-- Profile Blurb -->
+<!-- Profile Headlines -->
 
-I'm the Microsoft Developer Engagment Lead in Asia based in Australia and I am focused building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. I love coding with  Python and Javascript - I build fun things with AI and code to show how easy it is to build on Azure. I mentor for SheCodes Australia, MusesCode JS, Nuevo Foundation, ABCN and Girls Programming Network. I run events, and I judge Hackathons. I am an Open Source Advocate. I am focused on emerging developer, Data Science & AI Communities. I speak at conferences around the world as often as I am invited.
+I'm a Product Manager at heart and an amateur coder by passion. I love learning new stuff and helping people by teaching what I learn and fuelling their passion. I worked with databases and data all through my professional career thus far.
 
-[Visit My Webpage](https://aka.ms/michellespeaker)
+[My Data Science Portfolio - UT Austin McCombs School of Business](https://eportfolio.mygreatlearning.com/suraj-mathew-thomas)
 
 ## Technical Certifications
 
