@@ -1,6 +1,9 @@
 ### Hi there 👋, I'm Suraj ! Welcome to my Work Space  
+
+<hr />
+
 <!--
-**codess-aus/codess-aus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SMT-Portfolio/README.md** is a repository that is created as a landing page for Suraj Mathew's GitHub profile.
 
 Here are some ideas to get you started:
 
