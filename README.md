@@ -51,5 +51,10 @@ The organizations I have been part of
 |:---:|:---:|:---:|:---:|
 |![VMware](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/VMware.png)|![Wells Fargo](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/WellsFargo.png)|![Standard Chartered](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/SCB.png)|![Cognizant](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/Cognizant.png)|
 
+<!--dashboards-->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajmathew&show_icons=true&theme=radical&layout=compact&hide=html" alt="Languages" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+    &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=surajmathew&show_icons=true&theme=radical&layout=compact" alt="GitHub Stats for surajmathew" /></p>
 
 
