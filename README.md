@@ -47,9 +47,9 @@ These are some of my Certifications
 
 The organizations I have been part of
 
-|[**VMware**](https://www.vmware.com/)|[**Wells Fargo**](https://www.wellsfargo.com/)|[**Standard Chartered**](https://www.sc.com/en/)|[**Cognizant**](https://www.cognizant.com/us/en)|
-|:---:|:---:|:---:|:---:|
-|![VMware](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/VMware.png)|![Wells Fargo](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/WellsFargo.png)|![Standard Chartered](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/SCB.png)|![Cognizant](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/Cognizant.png)|
+|[**Citi**](https://www.citi.com/)|[**VMware**](https://www.vmware.com/)|[**Wells Fargo**](https://www.wellsfargo.com/)|[**Standard Chartered**](https://www.sc.com/en/)|[**Cognizant**](https://www.cognizant.com/us/en)|
+|:---:|:---:|:---:|:---:|:---:|
+|![VMware](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/VMware.png)|![VMware](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/VMware.png)|![Wells Fargo](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/WellsFargo.png)|![Standard Chartered](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/SCB.png)|![Cognizant](https://github.com/surajmathew/SMT-Portfolio/blob/main/assets/Cognizant.png)|
 
 <!--dashboards-->
 
